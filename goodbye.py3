@@ -3,5 +3,5 @@
 import random
 
 rand = random.randint(1, 25)
-for x in range rand:
-    print(Goodbye, cruel world!)
+for x in range(rand):
+    print("Goodbye, cruel world!")
